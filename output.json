@@ -1,0 +1,671 @@
+🔍 Starting Angular project analysis...
+📁 Analyzing path: ./src
+📊 Found 16 components, 0 services, 0 modules
+[
+  {
+    "project": {
+      "root_path": "./src",
+      "components": [
+        {
+          "name": "AdvancedComponent",
+          "file_path": "./src/app/advanced/advanced/advanced.component.ts",
+          "selector": "app-advanced",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 13
+        },
+        {
+          "name": "AnimationsComponent",
+          "file_path": "./src/app/advanced/animations/animations.component.ts",
+          "selector": "app-animations",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 13
+        },
+        {
+          "name": "PluginsComponent",
+          "file_path": "./src/app/advanced/plugins/plugins.component.ts",
+          "selector": "app-plugins",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 10
+        },
+        {
+          "name": "ScriptableOptionsComponent",
+          "file_path": "./src/app/advanced/scriptable-options/scriptable-options.component.ts",
+          "selector": "app-scriptable-options",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 11
+        },
+        {
+          "name": "UtilsComponent",
+          "file_path": "./src/app/advanced/utils/utils.component.ts",
+          "selector": "app-utils",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 15
+        },
+        {
+          "name": "AreaChartsComponent",
+          "file_path": "./src/app/charts/area-charts/area-charts.component.ts",
+          "selector": "app-area-charts",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 11
+        },
+        {
+          "name": "BarChartsComponent",
+          "file_path": "./src/app/charts/bar-charts/bar-charts.component.ts",
+          "selector": "app-bar-charts",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 11
+        },
+        {
+          "name": "LineChartsComponent",
+          "file_path": "./src/app/charts/line-charts/line-charts.component.ts",
+          "selector": "app-line-charts",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 11
+        },
+        {
+          "name": "OtherChartsComponent",
+          "file_path": "./src/app/charts/other-charts/other-charts.component.ts",
+          "selector": "app-other-charts",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 13
+        },
+        {
+          "name": "NavigationComponent",
+          "file_path": "./src/app/navigation/navigation.component.ts",
+          "selector": "app-navigation",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 1
+        },
+        {
+          "name": "LegendComponent",
+          "file_path": "./src/app/options/legend/legend.component.ts",
+          "selector": "app-legend",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 11
+        },
+        {
+          "name": "ScaleOptionsComponent",
+          "file_path": "./src/app/options/scale-options/scale-options.component.ts",
+          "selector": "app-scale-options",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 11
+        },
+        {
+          "name": "ScalesComponent",
+          "file_path": "./src/app/options/scales/scales.component.ts",
+          "selector": "app-scales",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 11
+        },
+        {
+          "name": "SubtitleComponent",
+          "file_path": "./src/app/options/subtitle/subtitle.component.ts",
+          "selector": "app-subtitle",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 9
+        },
+        {
+          "name": "TitleComponent",
+          "file_path": "./src/app/options/title/title.component.ts",
+          "selector": "app-title",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 9
+        },
+        {
+          "name": "TooltipComponent",
+          "file_path": "./src/app/options/tooltip/tooltip.component.ts",
+          "selector": "app-tooltip",
+          "template_url": null,
+          "template": null,
+          "style_urls": [],
+          "inputs": [],
+          "outputs": [],
+          "lifecycle_hooks": [
+            "ngOnInit",
+            "ngOnDestroy"
+          ],
+          "dependencies": [],
+          "change_detection": "Default",
+          "complexity_score": 11
+        }
+      ],
+      "services": [],
+      "modules": [],
+      "pipes": [],
+      "directives": []
+    },
+    "issues": [
+      {
+        "severity": "Warning",
+        "rule": "component-complexity",
+        "message": "Component complexity (13) exceeds threshold (10). Consider breaking down into smaller components.",
+        "file_path": "./src/app/advanced/advanced/advanced.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/advanced/advanced/advanced.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/advanced/advanced/advanced.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Warning",
+        "rule": "component-complexity",
+        "message": "Component complexity (13) exceeds threshold (10). Consider breaking down into smaller components.",
+        "file_path": "./src/app/advanced/animations/animations.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/advanced/animations/animations.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/advanced/animations/animations.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/advanced/plugins/plugins.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/advanced/plugins/plugins.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Warning",
+        "rule": "component-complexity",
+        "message": "Component complexity (11) exceeds threshold (10). Consider breaking down into smaller components.",
+        "file_path": "./src/app/advanced/scriptable-options/scriptable-options.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/advanced/scriptable-options/scriptable-options.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/advanced/scriptable-options/scriptable-options.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Warning",
+        "rule": "component-complexity",
+        "message": "Component complexity (15) exceeds threshold (10). Consider breaking down into smaller components.",
+        "file_path": "./src/app/advanced/utils/utils.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/advanced/utils/utils.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/advanced/utils/utils.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Warning",
+        "rule": "component-complexity",
+        "message": "Component complexity (11) exceeds threshold (10). Consider breaking down into smaller components.",
+        "file_path": "./src/app/charts/area-charts/area-charts.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/charts/area-charts/area-charts.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/charts/area-charts/area-charts.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Warning",
+        "rule": "component-complexity",
+        "message": "Component complexity (11) exceeds threshold (10). Consider breaking down into smaller components.",
+        "file_path": "./src/app/charts/bar-charts/bar-charts.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/charts/bar-charts/bar-charts.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/charts/bar-charts/bar-charts.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Warning",
+        "rule": "component-complexity",
+        "message": "Component complexity (11) exceeds threshold (10). Consider breaking down into smaller components.",
+        "file_path": "./src/app/charts/line-charts/line-charts.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/charts/line-charts/line-charts.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/charts/line-charts/line-charts.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Warning",
+        "rule": "component-complexity",
+        "message": "Component complexity (13) exceeds threshold (10). Consider breaking down into smaller components.",
+        "file_path": "./src/app/charts/other-charts/other-charts.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/charts/other-charts/other-charts.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/charts/other-charts/other-charts.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/navigation/navigation.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/navigation/navigation.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Warning",
+        "rule": "component-complexity",
+        "message": "Component complexity (11) exceeds threshold (10). Consider breaking down into smaller components.",
+        "file_path": "./src/app/options/legend/legend.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/options/legend/legend.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/options/legend/legend.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Warning",
+        "rule": "component-complexity",
+        "message": "Component complexity (11) exceeds threshold (10). Consider breaking down into smaller components.",
+        "file_path": "./src/app/options/scale-options/scale-options.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/options/scale-options/scale-options.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/options/scale-options/scale-options.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Warning",
+        "rule": "component-complexity",
+        "message": "Component complexity (11) exceeds threshold (10). Consider breaking down into smaller components.",
+        "file_path": "./src/app/options/scales/scales.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/options/scales/scales.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/options/scales/scales.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/options/subtitle/subtitle.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/options/subtitle/subtitle.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/options/title/title.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/options/title/title.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Warning",
+        "rule": "component-complexity",
+        "message": "Component complexity (11) exceeds threshold (10). Consider breaking down into smaller components.",
+        "file_path": "./src/app/options/tooltip/tooltip.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Info",
+        "rule": "change-detection-strategy",
+        "message": "Consider using OnPush change detection strategy for better performance",
+        "file_path": "./src/app/options/tooltip/tooltip.component.ts",
+        "line": null,
+        "column": null
+      },
+      {
+        "severity": "Error",
+        "rule": "missing-template",
+        "message": "Component must have either a template or templateUrl",
+        "file_path": "./src/app/options/tooltip/tooltip.component.ts",
+        "line": null,
+        "column": null
+      }
+    ],
+    "metrics": {
+      "total_components": 16,
+      "total_services": 0,
+      "total_modules": 0,
+      "average_complexity": 10.6875,
+      "lines_of_code": 0,
+      "test_coverage": null
+    },
+    "recommendations": [
+      {
+        "category": "Performance",
+        "title": "Optimize Change Detection",
+        "description": "Consider implementing OnPush change detection strategy for 16 components to improve performance",
+        "priority": "Medium",
+        "file_path": null
+      },
+      {
+        "category": "Code Quality",
+        "title": "Reduce Component Complexity",
+        "description": "Break down 12 complex components into smaller, more manageable pieces",
+        "priority": "High",
+        "file_path": null
+      }
+    ]
+  }
+]
+
+📈 Analysis Summary:
+   Total issues found: 44
+   Issues shown: 44
+   ❌ Errors: 16
+   ⚠️  Warnings: 12
+   💡 Recommendations: 2
+Analysis completed in 0.07s
